@@ -21,3 +21,6 @@
 ## Estilização
 - [Tailwind](https://tailwindcss.com/docs/guides/angular)
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+## Pacotes
+- [Angular Material](https://www.npmjs.com/package/@angular/material)
