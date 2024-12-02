@@ -1,5 +1,8 @@
 # Angular Estudos
 
+## Projetos inciados:
+- [Repertorio](./resource/Repertorio)
+
 ## Recursos utilizados nas aplicações
 
 ### Requisições de APIs:
