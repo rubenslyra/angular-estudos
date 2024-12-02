@@ -17,3 +17,7 @@
 
 ### Base de dados criada com:
 - [Claude](https://claude.ai/chat/0e7e0274-8b86-4ea0-b2e1-7ac093aaff00)
+
+## Estilização
+- [Tailwind](https://tailwindcss.com/docs/guides/angular)
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
