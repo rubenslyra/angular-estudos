@@ -24,3 +24,12 @@
 
 ## Pacotes
 - [Angular Material](https://www.npmjs.com/package/@angular/material)
+
+
+## Scripts:
+```json
+  "json-server": "npx json-server --watch db/musica.json",
+  ...
+  "stack": "concurrently \"npm run json-server\" \"ng serve -o\"",
+  
+```
