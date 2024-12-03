@@ -12,9 +12,6 @@
 ### API para testes:
 - [Json-Server](https://www.npmjs.com/package/json-server)
 
-### Scripts para inicialziação de multiplos aplicativos:
-- [Concurrently](https://www.npmjs.com/package/concurrently)
-
 ### Base de dados criada com:
 - [Claude](https://claude.ai/chat/0e7e0274-8b86-4ea0-b2e1-7ac093aaff00)
 
@@ -25,6 +22,8 @@
 ## Pacotes
 - [Angular Material](https://www.npmjs.com/package/@angular/material)
 
+## Scripts para inicialziação de multiplos aplicativos:
+- [Concurrently](https://www.npmjs.com/package/concurrently)
 
 ## Scripts:
 ```json
