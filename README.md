@@ -28,7 +28,7 @@
 ## Scripts:
 ```json
   "json-server": "npx json-server --watch db/musica.json",
-  ...
+  
   "stack": "concurrently \"npm run json-server\" \"ng serve -o\"",
   
 ```
